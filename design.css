@@ -15,7 +15,7 @@ background-color: beige;
 	position:relative;
 	background: url('gul.jpg');
 	background-position: bottom;
-	background-repeat; none;
+	background-repeat: none;
 	display: block;
     margin-left: auto;
     margin-right: auto;
