@@ -109,12 +109,12 @@ height: 90%;
 
 .calender{
 max-width: 30px;
-margin: 5px;
+margin: 10px;
 color: darkblue;
 font-family: sans-serif;
 text-align: center;
-padding: 5px;
-letter-spacing:1px;
+padding: 20px;
+letter-spacing:5px;
 font-size:30px;
 }
 
