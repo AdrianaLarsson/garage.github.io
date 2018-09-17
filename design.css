@@ -28,7 +28,7 @@ background-color: beige;
 /*Rubriken på första sidan */ 
 .rubrik	{
 color: beige;
-font-size:60px;
+font-size:50px;
 text-align: center;
 
 width: 100%;
@@ -179,6 +179,7 @@ body {font-family: Verdana, sans-serif;}
 
 
 .tjanster{
+
 color: darkred;
 font-size: 20px;
 text-align: center;
