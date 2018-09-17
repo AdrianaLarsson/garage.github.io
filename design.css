@@ -119,13 +119,14 @@ font-size:30px;
 }
 
 .month{
-background: beige;
+
 text-align: left;
-font-size: 10.px;
-letter-spacing:5px;
+font-size: 10px;
+letter-spacing:10px;
 color: darkblue;
+
 padding:3px;
-text-align: center;
+
 border: 0px solid darkblue;
 
 
@@ -147,23 +148,23 @@ width: 100%;
 
 .info{
 color: darkred;
-font-size: 20px;
+
 text-align: center;
 padding: 30px;
-width: 100%;
-height: 100%;
+width: 100px;
+height: 460px;
 background: url('information.jpg');
-width: 100%;
+width: 100px;
 
 }
 
 
 .hitta{
 color: darkred;
-font-size: 20px;
+font-size: 15px;
 text-align: center;
 padding: 30px;
-width: 100%;
+width: 100px;
 background: url('find.jpg');
 width: 100%;
 height: 300px;
@@ -173,9 +174,9 @@ height: 300px;
 
 .map{
 
-text-align: left;
-padding: 30px;
-width: 100%;
+text-align: center;
+
+width: 50px;
 height: 20vh;
 
 
@@ -210,7 +211,7 @@ footer {
 
 }
 
-.type{
+type{
 	font-size:1000px;
 padding: 60px 0px;
 }
