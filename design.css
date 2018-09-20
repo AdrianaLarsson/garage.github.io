@@ -247,10 +247,11 @@ width: 100;
 
 }
 
-.text{
+.text p{
 	color: darkred;
 text-align: center;
 font-size: 16px;
+margin-top: 20px;
 }
 	
 footer {
