@@ -261,8 +261,9 @@ footer {
 
 }
 
-type{
-	font-size:1000px;
+label{
+	font-size:20px;
 padding: 60px 0px;
+margin-left:40px;
 }
 	
