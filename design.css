@@ -50,7 +50,7 @@ background-position: center;
 }
 
 /*länkarna på första sidan, decoration, hur deem ska se ut och vart dem ska vara m.m */
-meny ul{
+.meny ul{
 list-style-type: none;
 float: center;
 font-size: 5px;
