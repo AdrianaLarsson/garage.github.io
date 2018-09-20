@@ -53,7 +53,7 @@ background-position: center;
 .meny ul{
 list-style-type: none;
 float: center;
-font-size: 7px;
+font-size: 10px;
 color: darkblue;
 text-align: center;
 }
@@ -249,7 +249,7 @@ width: 100;
 .text p{
 	color: darkred;
 text-align: center;
-font-size: 16px;
+font-size: 17px;
 margin-top: 20px;
 }
 	
@@ -258,7 +258,7 @@ footer{
     padding: 0px;
     text-align: center;
     color: beige;
-
+height: 10vh;
 }
 
 label{
