@@ -53,9 +53,10 @@ background-position: center;
 .meny ul{
 list-style-type: none;
 float: center;
-font-size: 10px;
+font-size: 6px bold;
 color: darkblue;
-text-align: center;
+
+
 }
 
 
@@ -258,7 +259,7 @@ footer{
     padding: 0px;
     text-align: center;
     color: beige;
-height: 10vh;
+    height: 5vh;
 }
 
 label{
