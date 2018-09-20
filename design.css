@@ -11,7 +11,7 @@ background-color: beige;
 	/*bredd och höjd på sidan */
 .container{
 	width:100%;
-	height:60vh;
+	height:70vh;
 	position:relative;
 	background: url('gul.jpg');
 	background-position: bottom;
